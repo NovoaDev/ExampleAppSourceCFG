@@ -1,5 +1,5 @@
 {
-  "name": "Dependency-Graph-Ruleset",
+  "name": "AppSource-Ruleset",
   "rules": [
     {
       "id": "AA0001",
