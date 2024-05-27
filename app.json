@@ -1,0 +1,22 @@
+{
+  "publisher": "ANJ",
+  "version": "1.0.0.0",
+  "privacyStatement": "https://github.com/NovoaDev",
+  "EULA": "https://github.com/NovoaDev",
+  "help": "https://github.com/NovoaDev",
+  "url": "https://github.com/NovoaDev",
+  "logo": "res/logo.png",
+  "contextSensitiveHelpUrl": "https://github.com/NovoaDev",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile",
+    "NoPromotedActionProperties"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false,
+    "applyToDevExtension": true
+  },
+  "runtime": "13.0"
+}
